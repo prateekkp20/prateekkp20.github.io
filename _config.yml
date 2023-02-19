@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Prateek Kumar Pandey"
   avatar           : "prateek.jpg"
-  bio              : "Junior Undergraduate IIT Kanpur"
+  bio              : "Junior Undergraduate, IIT Kanpur"
   location         : "Kanpur, Uttar Pradesh, India"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "prateekkp20"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  # twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
