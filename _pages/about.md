@@ -8,7 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Welcome to my homepage! My name is Prateek and I am a chemical engineering student at IIT Kanpur. I am passionate about the field of chemical engineering and I am excited about the potential impact that it can have on the world.
+
+During my time at IIT Kanpur, I have gained a strong foundation in the fundamentals of chemical engineering, including thermodynamics, fluid mechanics, and mass transfer. I have also gained hands-on experience in the lab, working on various research projects and conducting experiments.
+
+In addition to my technical skills, I am a great collaborator and team player, having worked effectively with cross-functional teams in a variety of projects. I have excellent problem-solving skills and am always looking for innovative solutions to complex challenges.
+
+When I'm not studying, I enjoy staying up to date on the latest developments in the field of chemical engineering and exploring new research areas. I am also passionate about sharing my knowledge with others and mentoring fellow students.
 
 A data-driven personal website
 ======
