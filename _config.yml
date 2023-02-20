@@ -272,7 +272,9 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-
+# theme
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Archives
 #  Type
