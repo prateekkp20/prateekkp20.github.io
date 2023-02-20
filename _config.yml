@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
+favicon: "/images/favicon.ico" # path to favicon, e.g. "/images/favicon.ico"
 
 # Reading Files
 include:
