@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage! My name is Prateek and I am a chemical engineering student at IIT Kanpur. I am passionate about the field of chemical engineering and I am excited about the potential impact that it can have on the world.
+Thanks for visiting my homepage! My name is Prateek and I am a chemical engineering student at IIT Kanpur. I am passionate about the field of chemical engineering and I am excited about the potential impact that it can have on the world.
 
 During my time at IIT Kanpur, I have gained a strong foundation in the fundamentals of chemical engineering, including thermodynamics, fluid mechanics, and mass transfer. I have also gained hands-on experience in the lab, working on various research projects and conducting experiments.
 
