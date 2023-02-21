@@ -8,13 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Thanks for visiting my homepage! My name is Prateek and I am a chemical engineering student at IIT Kanpur. I am passionate about the field of chemical engineering and I am excited about the potential impact that it can have on the world.
+Thanks for visiting my homepage! My name is Prateek Kumar Pandey, and I am a highly motivated chemical engineering student at IIT Kanpur. I have a passion for problem-solving and enjoy tackling complex challenges that help me develop my analytical and programming abilities.
 
-During my time at IIT Kanpur, I have gained a strong foundation in the fundamentals of chemical engineering, including thermodynamics, fluid mechanics, and mass transfer. I have also gained hands-on experience in the lab, working on various research projects and conducting experiments.
+My time at IIT Kanpur has given me a strong foundation in the fundamentals of chemical engineering, and I have gained hands-on experience in the lab, working on various research projects and conducting experiments. I am a great collaborator and team player, having worked effectively with cross-functional teams in a variety of projects.
 
-In addition to my technical skills, I am a great collaborator and team player, having worked effectively with cross-functional teams in a variety of projects. I have excellent problem-solving skills and am always looking for innovative solutions to complex challenges.
-
-When I'm not studying, I enjoy staying up to date on the latest developments in the field of chemical engineering and exploring new research areas. I am also passionate about sharing my knowledge with others and mentoring fellow students.
+In addition to my technical skills, I believe in learning and enhancing my abilities whenever I have the chance. I am always eager to choose the path less travelled and am not afraid to learn something new or execute something in the real world. When I’m not studying, I enjoy staying up to date on the latest developments in the field of chemical engineering and exploring new research areas. I am also passionate about sharing my knowledge with others and mentoring fellow students. With my strong problem-solving skills and innovative mindset, I am excited about the potential impact that chemical engineering can have on the world.
 
 <!-- A data-driven personal website
 ======
