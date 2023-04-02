@@ -5,8 +5,8 @@ permalink: /projects/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my projects on <u><a href="{{https://github.com/prateekkp20}}">my Github profile</a>.</u>
+{% if author.github %}
+  You can also find my projects on <u><a href="{{author.github}}">my Github profile</a>.</u>
 {% endif %}
 
 {% include base_path %}
