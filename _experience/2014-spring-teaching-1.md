@@ -4,7 +4,7 @@ collection: experience
 type: "Undergraduate course"
 permalink: /experience/2014-spring-teaching-1
 venue: "University 1, Department"
-date: 2014-01-01
+date: 2014-01-01 to 2014-01-01 
 location: "City, Country"
 ---
 
