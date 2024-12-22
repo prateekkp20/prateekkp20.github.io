@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Prateek Kumar Pandey"
   avatar           : "prateek.jpg"
-  bio              : "Senior Undergraduate, IIT Kanpur"
+  bio              : "Dual Degree BT-MT, Chemical Engineering, IIT Kanpur"
   location         : "Kanpur, Uttar Pradesh, India"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -178,13 +178,13 @@ collections:
   experience:
     output: true
     permalink: /:collection/:path/
-  projecsts:
+  projects:
     output: true
     permalink: /:collection/:path/
-  # portfolio:
-  #   output: true
-  #   permalink: /:collection/:path/
   contact:
+    output: true
+    permalink: /:collection/:path/
+  cv:
     output: true
     permalink: /:collection/:path/
 
@@ -227,15 +227,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # # _portfolio
-  # - scope:
-  #     path: ""
-  #     type: portfolio
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     share: true
-  #     comment: true
+  # cv
+  - scope:
+      path: ""
+      type: cv
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
   # _talks
   # - scope:
   #     path: ""
