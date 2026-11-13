@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-{% assign sections = "Research|Professional" | split: "|" %}
+{% assign sections = "Professional|Research" | split: "|" %}
 {% assign items = site.experience | sort: "date" | reverse %}
 
 {% for section in sections %}

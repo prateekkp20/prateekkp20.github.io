@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Prateek Kumar Pandey"
   avatar           : "prateek.jpg"
-  bio              : "Dual Degree BT-MT, Chemical Engineering, IIT Kanpur"
+  bio              : "AI Engineer at Genpact  · IIT Kanpur alum"
   location         : "Kanpur, Uttar Pradesh, India"
-  employer         :
+  employer         : "Genpact"
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "prateekkp20@iitk.ac.in"
+  email            : "prateekkp26@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -99,7 +99,7 @@ author:
   github           : "prateekkp20"
   google_plus      :
   keybase          :
-  instagram        : "prateek_k_pandey"
+  instagram        : "prateekkpandey"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
