@@ -178,13 +178,7 @@ collections:
   experience:
     output: true
     permalink: /:collection/:path/
-  projects:
-    output: true
-    permalink: /:collection/:path/
-  contact:
-    output: true
-    permalink: /:collection/:path/
-  cv:
+  publications:
     output: true
     permalink: /:collection/:path/
 
@@ -218,32 +212,14 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _projects
+  # _publications
   - scope:
       path: ""
-      type: projects
+      type: publications
     values:
       layout: single
       author_profile: true
       share: true
-      comments: true
-  # cv
-  - scope:
-      path: ""
-      type: cv
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  # - scope:
-  #     path: ""
-  #     type: contact
-  #   values:
-  #     layout: contact
-  #     author_profile: true
-  #     share: true
 
 # Sass/SCSS
 sass:

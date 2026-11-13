@@ -11,6 +11,14 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
+{% assign sections = "Manuscripts under review|Conference proceedings|Presentations" | split: "|" %}
+{% assign items = site.publications | sort: "date" | reverse %}
+
+{% for section in sections %}
+  <h2 class="archive__subtitle">{{ section }}</h2>
+  {% for post in items %}
+    {% if post.type == section %}
+      {% include archive-single.html %}
+    {% endif %}
+  {% endfor %}
 {% endfor %}
